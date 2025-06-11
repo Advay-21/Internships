@@ -1,0 +1,67 @@
+Summary of Task 1 and Task 2: Knowing the Basic Terminology - Services and Functions of EY
+
+🧠 Consulting
+EY's consulting services focus on driving business transformation through people, technology, and innovation. They assist clients in areas such as strategy, operations, technology, risk management, and customer experience.
+
+💼 Tax Services
+EY offers comprehensive tax services, including business tax, international tax, transaction tax, and tax-related issues associated with people, compliance, reporting, and law. Their globally coordinated tax professionals help clients navigate the complexities of tax regulations.
+
+📊 Assurance
+EY's assurance services aim to promote trust and confidence in business and capital markets. This includes audit, financial accounting advisory services (FAAS), climate change and sustainability services (CCaSS), technology risk, and forensic & integrity services.
+
+🔍 Forensic & Integrity Services
+EY's forensic and integrity services help organizations manage investigations and crisis situations, using advanced technologies to drive insights from complex data sets. They assist in addressing legal and regulatory challenges, ensuring compliance and ethical practices.
+
+⚖️ Law Services
+EY Law teams provide advice on legal and regulatory matters, risk management, enforcement, and compliance issues across multiple jurisdictions. Their services include digital law, financial services law, legal operations, and managed legal services. 
+
+1. Data Privacy Assessment
+EY offers the Data Permissions Navigator, a cloud-based platform designed to help organizations manage data privacy risks efficiently. It enables rapid, data-driven decisions to ensure compliance with regulations like GDPR.
+
+2. AI Risk and Governance
+EY's Trusted AI Platform assists organizations in identifying and managing risks associated with AI systems. It provides insights into risk sources and helps design teams quantify AI risks, promoting responsible AI deployment.
+
+3. SSPA
+The Supplier Security and Privacy Assurance (SSPA) Program is Microsoft's way of ensuring its suppliers handle sensitive data responsibly. It requires suppliers processing Personal Data, Microsoft Confidential Data, or using AI Systems to comply with the Microsoft Supplier Data Protection Requirements (DPR).
+
+4. HIPAA
+The HIPAA Privacy Rule regulates the use and disclosure of Protected Health Information (PHI) by "covered entities" (healthcare providers, health plans, and healthcare clearinghouses) and their "business associates." It grants individuals rights over their health information. The rule generally requires individual authorization for PHI disclosure, with exceptions for treatment, payment, healthcare operations, and 12 national priority purposes like public health activities, law enforcement, and research under specific conditions.
+
+5. HITRUST (Health Information Trust Alliance)
+EY has been an external assessor for HITRUST CSF in India since 2016, assisting clients in achieving HITRUST certification to ensure the protection of sensitive health information.
+
+6. SOX Control Testing (Sarbanes-Oxley Act)
+EY's Sarbanes-Oxley Solutions Centre offers automated dashboards for ongoing status tracking and reporting, enabling organizations to perform consistent SOX testing procedures for both IT and non-IT controls.
+
+7. IT Internal Audit
+EY's Internal Audit Transformation Services help organizations build and maintain trust by ensuring business risks are effectively managed. They focus on technology-enabled internal audit transformations with an emphasis on people, processes, and purpose.
+
+8. IT Infrastructure Review
+EY advises clients on large-scale infrastructure projects, offering insights into financial, procurement, strategic, and public-private partnership issues. Their services help organizations evaluate and improve their IT infrastructure strategies.
+
+9. Third Party Risk Management
+EY's Technology Risk services assist companies in identifying, assessing, and mitigating risks associated with third-party vendors and partners, ensuring that external relationships do not compromise organizational integrity.
+
+10. Red Team Assessment
+While specific details are limited, EY's Government and Public Sector Cybersecurity Services include assessments that simulate real-world attacks to test the effectiveness of an organization's security posture, akin to red team assessments. 
+
+11. Cyber Threat and Vulnerability Assessment
+EY helps organizations navigate the evolving landscape of data privacy and cybersecurity, particularly in sectors like healthcare, by assessing vulnerabilities and implementing strategies to mitigate cyber threats.
+
+12. Infrastructure Pen Testing
+EY provides Security Assessment On-site services, deploying specialized personnel to conduct security evaluations across various sites, ensuring infrastructure resilience against potential threats.
+
+13. Cloud Security Assessment
+EY's Data Protection and Privacy Services extend to cloud environments, helping organizations protect information throughout its lifecycle, including during cloud migrations and operations. 
+
+14. Application Pen Testing
+While not explicitly detailed, EY's Technology Risk services encompass assessments that would include application penetration testing to identify and remediate vulnerabilities in software applications.
+
+15. OT Risk Assessment (Operational Technology)
+EY's Technology Risk services also cover operational technology environments, helping organizations assess and manage risks associated with industrial control systems and other OT components.
+
+16. FedRAMP (Federal Risk and Authorization Management Program)
+EY assists government agencies in addressing IT risk, cybersecurity, and data privacy, aligning with standards like FedRAMP to ensure secure cloud services in the public sector.
+
+17. Computer System Validation
+EY's Data Protection and Privacy Services include assessments and reviews of global applications and systems, ensuring that computer systems meet required validation standards and operate securely.
